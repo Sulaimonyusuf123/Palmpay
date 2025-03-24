@@ -29,11 +29,7 @@ import Business from './components/pages/Business';
       <Route path='business' element={< Business/>}></Route>
       </Routes>
     </BrowserRouter>
-    
-    <Footer />
     </div>
-
-   
   );
  
 }
